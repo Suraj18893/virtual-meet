@@ -1,7 +1,7 @@
 {
   "APP_ID": "aa390492450a44e28aca78d01df2c216",
   "ENCRYPTION_ENABLED": false,
-  "ENABLE_GOOGLE_OAUTH": false,//
+  "ENABLE_GOOGLE_OAUTH": false,
   "ENABLE_SLACK_OAUTH": false,
   "ENABLE_MICROSOFT_OAUTH": false,
   "ENABLE_APPLE_OAUTH": false,
